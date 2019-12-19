@@ -5,6 +5,10 @@ body {
 	font-family: 'Vollkorn', sans-serif !important;
 }
 
+@font-face {
+	font-family: 'Vollkorn', sans-serif !important;
+}
+
 .navbar-brand {
 	color: #f8f9fa !important;
 	background-color: #10c412;
